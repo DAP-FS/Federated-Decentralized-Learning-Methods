@@ -8,7 +8,6 @@ using **Federated Averaging (FedAvg)** with **IID** and **non-IID** client parti
 - **CNN (2 conv layers + FC)**
 
 This README documents the exact experimental design, hyperparameters, and results reported in the experiment note.  
-See the original experiment note for details.  [oai_citation:1‡fed_avg.pdf](sediment://file_00000000d3007206a03a5619ecd866c3)
 
 ---
 
