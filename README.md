@@ -28,8 +28,8 @@ Train deep networks on **decentralized, non-IID** data with **minimal communicat
 - Client training: sequential execution with a **running sum of model parameters** for aggregation (memory-saving approach)
 - Evaluation: test accuracy computed **after every round**
 - Reported metric: **first round** where test accuracy crosses:
-  - **97%** for 2NN
-  - **99%** for CNN (also reported 98.5% as a secondary threshold in some runs)  [oai_citation:2‡fed_avg.pdf](sediment://file_00000000d3007206a03a5619ecd866c3)
+  - **XX** for 2NN
+  - **XX** for CNN (also reported 98.5% as a secondary threshold in some runs)  [oai_citation:2‡fed_avg.pdf](sediment://file_00000000d3007206a03a5619ecd866c3)
 
 ---
 
