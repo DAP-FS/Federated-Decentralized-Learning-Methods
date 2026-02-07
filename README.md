@@ -30,7 +30,6 @@ Train deep networks on **decentralized, non-IID** data with **minimal communicat
 - Reported metric: **first round** where test accuracy crosses:
   - **XX** for 2NN
   - **XX** for CNN
-  - (sediment://file_00000000d3007206a03a5619ecd866c3)
 
 ---
 
