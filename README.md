@@ -34,3 +34,6 @@ Train deep networks on **decentralized, non-IID** data with **minimal communicat
 
 ## Repository Layout (suggested)
 > Adjust if your repo differs; keep naming consistent for collaborators.
+
+## Clone instructions in Local 
+Command: git clone https://github.com/DAP-FS/Federated-Decentralized-Learning-Methods-.git
